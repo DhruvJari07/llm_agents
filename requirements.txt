@@ -1,0 +1,13 @@
+huggingface_hub
+langchain 
+langchain-community 
+langchain-experimental
+langchainhub 
+google-search-results 
+wikipedia 
+duckduckgo-search
+python-dotenv
+numexpr
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.2+cpu
+transformers==4.39.3
